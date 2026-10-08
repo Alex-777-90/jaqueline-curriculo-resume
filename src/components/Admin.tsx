@@ -188,9 +188,7 @@ export default function Admin() {
         {!configured && (
           <div className="notice warning" role="status">
             <strong>Configuração inicial pendente</strong>
-            <br />O site está em modo de visualização. Para ativar login e
-            edição, configure o Supabase seguindo o arquivo LEIA-ME.md do
-            projeto.
+            <br />
           </div>
         )}
         {recovery && !session && (
