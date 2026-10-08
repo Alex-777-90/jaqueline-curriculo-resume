@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1000" viewBox="0 0 1400 1000" fill="none">
+<defs><pattern id="grid" width="50" height="50" patternUnits="userSpaceOnUse"><path d="M50 0H0V50" stroke="#9d6b78" stroke-opacity=".12" stroke-width=".7"/></pattern><linearGradient id="light" x1="350" y1="0" x2="1350" y2="900" gradientUnits="userSpaceOnUse"><stop stop-color="#f4e5df"/><stop offset="1" stop-color="#dcc7c0"/></linearGradient></defs>
+<rect width="1400" height="1000" fill="url(#light)"/><rect width="1400" height="1000" fill="url(#grid)"/>
+<g stroke="#94636d" stroke-width="1.5" opacity=".5">
+<circle cx="1020" cy="400" r="265"/><circle cx="1020" cy="400" r="215"/><circle cx="1020" cy="400" r="149"/><circle cx="1020" cy="400" r="72"/><circle cx="1020" cy="400" r="37"/>
+<path d="M707 400h626M1020 80v640" stroke-dasharray="12 8 2 8"/>
+<path d="M819 275l95-83h212l94 83v250l-94 82H914l-95-82Z"/>
+<circle cx="887" cy="267" r="16"/><circle cx="1153" cy="267" r="16"/><circle cx="887" cy="533" r="16"/><circle cx="1153" cy="533" r="16"/>
+<path d="M762 120h522M762 99v61M1284 99v61M771 113l-9 7 9 7M1275 113l9 7-9 7M730 145v510M707 145h55M707 655h55M723 153l7-8 7 8M723 647l7 8 7-8"/>
+<path d="M1200 588l84 93h91M1200 588l21 8-12 10Z"/>
+<path d="M580 780h540v45H580zM628 825v87h34V768h160v52h34v-87H628ZM883 737v144h35V779h55v-43Z"/>
+<path d="M600 790v14m16-14v9m16-9v9m16-9v9m16-9v14m16-14v9m16-9v9m16-9v9m16-9v14m16-14v9m16-9v9m16-9v9m16-9v14m16-14v9m16-9v9m16-9v9m16-9v14m16-14v9m16-9v9m16-9v9m16-9v14m16-14v9m16-9v9m16-9v9m16-9v14m16-14v9m16-9v9m16-9v9m16-9v14"/>
+<path d="M140 240v300h350M160 300h310M160 380h310M160 470h310" stroke-dasharray="5 6"/>
+<path d="M160 392l38-45 38 16 39 36 38-52 39 26 39-38 38 36 40-6" stroke-width="2"/>
+<path d="M210 650h140v65H210zM210 798h140v65H210zM410 725h140v65H410zM280 715v83M350 830h40V757h20M350 682h40v75h20"/>
+<path d="M276 786l4 12 4-12M398 753l12 4-12 4"/>
+</g><g font-family="monospace" font-size="13" fill="#8f626b" opacity=".6"><text x="995" y="106">Ø 120</text><text x="1215" y="710">DETAIL A</text><text x="142" y="225">PROCESS CONTROL</text><text x="628" y="942">PRECISION / CONTINUOUS IMPROVEMENT</text></g>
+</svg>

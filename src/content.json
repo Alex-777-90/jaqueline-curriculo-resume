@@ -1,0 +1,297 @@
+{
+  "profile": {
+    "name": "Jaqueline Sousa",
+    "role": "Engenheira de Produção · Analista da Qualidade",
+    "eyebrow": "ENGENHARIA & QUALIDADE",
+    "headline": "Precisão nos processos.\nCuidado em cada entrega.",
+    "intro": "Transformo requisitos em processos práticos, conectando pessoas, qualidade e melhoria contínua.",
+    "summary": [
+      "Sou Engenheira de Produção, com 6 anos de experiência em Qualidade, auditorias, metrologia e desenvolvimento de processos nos segmentos automotivo, gráfico, de comunicação visual e metalúrgico.",
+      "Minha atuação reúne estruturação de Sistemas de Gestão da Qualidade, padronização de processos, análise de não conformidades, indicadores e suporte técnico ao desenvolvimento de produtos.",
+      "Acredito em uma qualidade construída em conjunto. Conduzo projetos multidisciplinares e trabalho com áreas produtivas e administrativas para reduzir retrabalhos, controlar a variabilidade e fortalecer a satisfação do cliente."
+    ],
+    "location": "São Paulo, SP",
+    "email": "jaque.sousa1@hotmail.com",
+    "linkedin": "https://www.linkedin.com/in/jaqueline-sousa-248bb413a/",
+    "whatsapp": "",
+    "photo": "",
+    "background": "/assets/engineering-background.svg",
+    "resume": "/assets/curriculo-jaqueline-sousa.pdf",
+    "availability": "Engenharia da Qualidade, Sistemas de Gestão e Melhoria Contínua",
+    "contactTitle": "Vamos construir\nprocessos melhores?",
+    "contactText": "Entre em contato para conversar sobre oportunidades em qualidade, engenharia e melhoria de processos."
+  },
+  "settings": {
+    "palette": "rose",
+    "siteTitle": "Jaqueline Sousa | Engenharia & Qualidade",
+    "description": "Engenheira de Produção e Analista da Qualidade. Conheça minha experiência em SGQ, auditorias, metrologia e melhoria contínua.",
+    "showHighlights": true,
+    "showSkills": true,
+    "showExperiences": true,
+    "showEducation": true,
+    "showCertificates": true,
+    "showProjects": true,
+    "showVideos": false,
+    "showLanguages": true
+  },
+  "highlights": [
+    {
+      "id": "high-1",
+      "value": "6 anos",
+      "label": "Experiência em Qualidade",
+      "note": "Atuação em diferentes segmentos industriais."
+    },
+    {
+      "id": "high-2",
+      "value": "≈90%",
+      "label": "Redução de retrabalhos",
+      "note": "Resultado relatado na Pigma, com implantação de procedimentos e instruções de trabalho."
+    },
+    {
+      "id": "high-3",
+      "value": "SGQ",
+      "label": "Da estrutura à prática",
+      "note": "Mapeamento, documentação e implementação dos requisitos da ISO 9001."
+    }
+  ],
+  "skills": [
+    {
+      "id": "skill-1",
+      "title": "Gestão da Qualidade",
+      "description": "Conformidade que faz parte da rotina.",
+      "items": [
+        "SGQ · ISO 9001",
+        "Auditorias internas e de fornecedores",
+        "Mapeamento de processos",
+        "POPs e instruções de trabalho"
+      ]
+    },
+    {
+      "id": "skill-2",
+      "title": "Melhoria & indicadores",
+      "description": "Análise para transformar processos.",
+      "items": [
+        "Análise de causa e planos de ação",
+        "CEP · CP · CPK",
+        "Power BI · PowerApps · ERP",
+        "Indicadores de qualidade e ESG"
+      ]
+    },
+    {
+      "id": "skill-3",
+      "title": "Engenharia & metrologia",
+      "description": "Precisão do desenvolvimento à entrega.",
+      "items": [
+        "CMM e braço tridimensional",
+        "PolyWorks · GD&T",
+        "APQP · PPAP · FMEA · MSA",
+        "Calibração e rastreabilidade"
+      ]
+    }
+  ],
+  "experiences": [
+    {
+      "id": "exp-1",
+      "company": "Nexo International",
+      "role": "Analista da Qualidade",
+      "period": "05/2025 — atual",
+      "location": "São Paulo, SP",
+      "summary": "Estruturação do SGQ e integração da qualidade aos processos da empresa.",
+      "bullets": [
+        "Atuação na implementação e estruturação do Sistema de Gestão da Qualidade com base nos requisitos da ISO 9001.",
+        "Condução do levantamento e mapeamento dos processos, identificação de riscos, oportunidades de melhoria, entradas, saídas, responsáveis e pontos de controle.",
+        "Desenvolvimento e organização da documentação do SGQ, incluindo procedimentos, instruções de trabalho, registros e evidências necessárias à padronização e à rastreabilidade dos processos.",
+        "Interface com as áreas da empresa para disseminação dos requisitos da qualidade, definição de responsabilidades e acompanhamento da implantação das práticas documentadas.",
+        "Apoio na definição e acompanhamento de indicadores de desempenho, planos de ação e iniciativas de melhoria contínua.",
+        "Participação na preparação das áreas para auditorias, análise de lacunas e fortalecimento da cultura da qualidade.",
+        "Apoio à área técnica de produtos da Nexo International, contribuindo para a organização de informações técnicas, análise de requisitos, tratativas de dúvidas e suporte à padronização dos processos relacionados aos produtos.",
+        "Integração entre Qualidade, área técnica, operações e demais áreas envolvidas, buscando assegurar conformidade, confiabilidade das informações e atendimento aos requisitos dos clientes."
+      ],
+      "tags": ["SGQ", "ISO 9001", "Processos"]
+    },
+    {
+      "id": "exp-2",
+      "company": "Pigma Gráfica",
+      "role": "Analista da Qualidade",
+      "period": "05/2024 — 11/2024",
+      "location": "São Paulo, SP",
+      "summary": "Padronização, indicadores e projetos de melhoria com equipes multidisciplinares.",
+      "bullets": [
+        "Coordenação de reuniões de mapeamento de processos com facilitadores de cada área e elaboração dos fluxogramas dos processos produtivos.",
+        "Elaboração de Instruções de Trabalho ilustradas e Procedimentos operacionais padrão para padronização das atividades.",
+        "Desenvolvimento de indicadores de Qualidade, Meio Ambiente, Saúde e Segurança do Trabalho e ESG.",
+        "Preparação da documentação para auditorias de homologação de clientes e organismos certificadores.",
+        "Acompanhamento e apoio direto na certificação ESG SMETA/SEDEX – 4 Pilares, em setembro de 2024.",
+        "Condução da certificação FSC STD-40-004 v3-1 – Cadeia de Custódia, em outubro de 2024.",
+        "Coordenação de ações de melhoria contínua com Qualidade, TI, Produção, Orçamentos, Controladoria, Contábil, Estoques, PCP, Atendimento, Pré-impressão, Instalação, Projetos Especiais e Compras.",
+        "Desenvolvimento de solução para controle e avaliação de terceiros por meio de plataforma de auto auditoria, inclusão de documentos obrigatórios e avaliação de fornecedores.",
+        "Implantação de procedimentos e instruções de trabalho que contribuíram para redução de aproximadamente 90% dos retrabalhos, redução de custos com reimpressões e acabamentos e aumento da qualidade dos produtos.",
+        "Apoio na melhoria do ERP para otimização das Ordens de Produção, apontamentos e acompanhamento do status das atividades."
+      ],
+      "tags": ["Melhoria contínua", "ESG", "FSC"]
+    },
+    {
+      "id": "exp-3",
+      "company": "Metalsa Brasil",
+      "role": "Técnica de Qualidade",
+      "period": "08/2022 — 05/2024",
+      "location": "Osasco, SP",
+      "summary": "Qualidade de processos e produtos, metrologia e controle estatístico.",
+      "bullets": [
+        "Coordenação e auditoria de processos e produtos conforme o cronograma do SGQ, com monitoramento das ações decorrentes das auditorias.",
+        "Condução de estudos de capabilidade, atualização de CP e CPK, CEP eletrônico e gestão visual.",
+        "Execução de medições tridimensionais utilizando CMM e braço de medição, com emissão de relatórios técnicos.",
+        "Controle e monitoramento de indicadores de qualidade e processo por meio de Quality Gates e Power BI.",
+        "Condução de medições e elaboração de relatórios para itens em desenvolvimento de produto no processo de PPAP.",
+        "Emissão de alertas de qualidade, condução de contenções e suporte à equipe de resposta rápida na solução de problemas.",
+        "Análise de produtos conforme requisitos dos clientes, especificações e características dimensionais.",
+        "Garantia da disponibilidade e atualização dos procedimentos de processo.",
+        "Controle e monitoramento da calibração e do correto funcionamento dos sistemas de medição, incluindo projetos e novas tecnologias.",
+        "Suporte técnico à área fabril na análise e definição de produtos não conformes.",
+        "Aplicação de ferramentas estatísticas básicas e ferramentas da qualidade na análise e solução de problemas."
+      ],
+      "tags": ["Metrologia", "CEP", "PPAP"]
+    },
+    {
+      "id": "exp-4",
+      "company": "Metalsa Brasil",
+      "role": "Auditora da Qualidade",
+      "period": "02/2018 — 12/2019",
+      "location": "Osasco, SP",
+      "summary": "Auditorias e acompanhamento de ações para tratamento de não conformidades.",
+      "bullets": [
+        "Execução de auditorias de processo, produto, Poka-Yoke e função, conforme plano de auditoria.",
+        "Atualização dos questionários e critérios utilizados nas auditorias.",
+        "Acompanhamento das correções e ações relacionadas às não conformidades identificadas."
+      ],
+      "tags": ["Auditorias", "Poka-Yoke", "Planos de ação"]
+    },
+    {
+      "id": "exp-5",
+      "company": "Metalsa Brasil",
+      "role": "Estagiária de Engenharia da Qualidade",
+      "period": "01/2015 — 12/2016",
+      "location": "Osasco, SP",
+      "summary": "Documentação técnica, inspeções, desenvolvimento e validação dimensional.",
+      "bullets": [
+        "Atualização de documentações internas, incluindo Work Element Sheet, Standard Work, FMEA, Plano de Controle e Instruções de Trabalho.",
+        "Desenvolvimento de dashboard para gestão do processo produtivo e controle de reclamações formais e informais.",
+        "Participação na fabricação e validação dimensional de itens protótipo, try-outs de ferramental e peças.",
+        "Inspeção de recebimento de matéria-prima e validação de características químicas, mecânicas e dimensionais.",
+        "Preparação de corpos de prova, análise crítica de ensaios laboratoriais e organização dos registros por modelo e cliente.",
+        "Utilização do sistema SIQ para inspeção, controle de matéria-prima e gestão de fornecedores.",
+        "Elaboração de solicitações de ação corretiva para fornecedores e participação em projetos A3 de solução de problemas.",
+        "Medição com braço tridimensional utilizando PolyWorks e análise dimensional de produtos.",
+        "Estudo de tempos com aplicação de Yamazumi para identificação de oportunidades de redução do tempo de medição e movimentação."
+      ],
+      "tags": ["FMEA", "PolyWorks", "A3"]
+    }
+  ],
+  "education": [
+    {
+      "id": "education-1",
+      "degree": "Bacharelado em Engenharia de Produção",
+      "institution": "Universidade Estácio",
+      "period": "01/2018 — 06/2024",
+      "location": "São Paulo, SP",
+      "description": ""
+    }
+  ],
+  "certificates": [
+    {
+      "id": "cert-1",
+      "title": "IATF 16949:2016 e ISO 9001:2015",
+      "institution": "Plexus International",
+      "date": "08/2022",
+      "description": "Requisitos do Sistema de Gestão da Qualidade Automotivo.",
+      "url": "",
+      "image": ""
+    },
+    {
+      "id": "cert-2",
+      "title": "APQP, Plano de Controle e PPAP",
+      "institution": "Plexus International",
+      "date": "10/2022",
+      "description": "Planejamento da qualidade e aprovação de peças de produção.",
+      "url": "",
+      "image": ""
+    },
+    {
+      "id": "cert-3",
+      "title": "GD&T — Tolerância Geométrica e de Posição",
+      "institution": "Setec Consulting Group",
+      "date": "10/2022",
+      "description": "Tolerâncias geométricas e dimensionais.",
+      "url": "",
+      "image": ""
+    },
+    {
+      "id": "cert-4",
+      "title": "MSA — 4ª edição",
+      "institution": "Setec Consulting Group",
+      "date": "11/2021",
+      "description": "Análise dos sistemas de medição.",
+      "url": "",
+      "image": ""
+    },
+    {
+      "id": "cert-5",
+      "title": "PolyWorks",
+      "institution": "Instituição não informada no currículo",
+      "date": "11/2021",
+      "description": "Aplicações básicas de apalpação e digitalização para metrologia portátil.",
+      "url": "",
+      "image": ""
+    },
+    {
+      "id": "cert-6",
+      "title": "Processos de Comunicação Visual",
+      "institution": "Gráfica Pigma",
+      "date": "10/2024",
+      "description": "Processos de comunicação visual.",
+      "url": "",
+      "image": ""
+    },
+    {
+      "id": "cert-7",
+      "title": "Engenharia de Operações e Processos de Produção",
+      "institution": "Universidade Estácio",
+      "date": "12/2023",
+      "description": "",
+      "url": "",
+      "image": ""
+    },
+    {
+      "id": "cert-8",
+      "title": "Engenharia Econômica e Organizacional",
+      "institution": "Universidade Estácio",
+      "date": "12/2023",
+      "description": "",
+      "url": "",
+      "image": ""
+    },
+    {
+      "id": "cert-9",
+      "title": "Estatística e Modelagem Computacional Básica",
+      "institution": "Universidade Estácio",
+      "date": "12/2023",
+      "description": "",
+      "url": "",
+      "image": ""
+    }
+  ],
+  "languages": [
+    {
+      "id": "lang-1",
+      "name": "Inglês",
+      "level": "Básico"
+    },
+    {
+      "id": "lang-2",
+      "name": "Espanhol",
+      "level": "Básico"
+    }
+  ],
+  "projects": [],
+  "videos": []
+}
